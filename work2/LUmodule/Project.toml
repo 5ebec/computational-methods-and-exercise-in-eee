@@ -1,0 +1,6 @@
+authors = ["KAWASE Hiroya <hash.a5ebec@gmail.com>"]
+name = "LUmodule"
+uuid = "8c86f584-e98a-11e8-3940-ed718c1c273a"
+version = "0.1.0"
+
+[deps]
