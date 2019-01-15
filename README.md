@@ -1,4 +1,4 @@
-## Computational Methods and Exercise in Electrical and Electronic Engineering
+## computational-methods-and-exercise-in-eee
 
 I pushed the subject of the lesson; Computational Methods and Exercise in Electrical and Electronic Engineering.  
 You may refer this, however please do not copy.
